@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# sample project using Create React App and Cursor Ai
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
